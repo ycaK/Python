@@ -5,5 +5,7 @@
 - You can get the ip by typing ipconfig on windows or ifconfig on linux
 - You can test the program localy without having the server on other computer (default ip: 127.0.0.1)
 
-Tested on: Python 3.6.1 (Windows 7) and Python 2.7.14 (Windows 8.1)
+
 - Requirements : pywin32 (Choose the version of your Python installed)
+
+Tested on: Python 3.6.1 (Windows 7) and Python 2.7.14 (Windows 8.1)
